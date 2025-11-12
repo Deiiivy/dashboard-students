@@ -1,10 +1,3 @@
-"""
-main.py - Dashboard Estudiantil (versión final)
-Lee: "ListadoDeEstudiantesGrupo_001 - Hoja1.csv" en la misma carpeta.
-Ejecutar:
-    streamlit run main.py
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
